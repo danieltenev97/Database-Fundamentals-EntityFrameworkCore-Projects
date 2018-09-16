@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLclientWithStringBuilder", "SQLclientWithStringBuilder\SQLclientWithStringBuilder.csproj", "{16A31BED-E55A-460A-9519-95038CBFCECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A31BED-E55A-460A-9519-95038CBFCECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A31BED-E55A-460A-9519-95038CBFCECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A31BED-E55A-460A-9519-95038CBFCECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A31BED-E55A-460A-9519-95038CBFCECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B748DFED-319F-41C6-A5E7-FF7D47255EC4}
+	EndGlobalSection
+EndGlobal
